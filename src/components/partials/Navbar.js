@@ -1,4 +1,4 @@
-import logoAwb from '../assets/images/logo-awb.png'
+import logoAwb from '../../assets/images/logo-awb.png'
 
 function Navbar(){
     return (

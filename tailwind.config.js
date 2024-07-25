@@ -10,6 +10,11 @@ module.exports = {
           '2xl': '1400px',
         },
       },
+      colors: {
+        primary1: {
+          DEFAULT: "#71c9ce"
+        }
+      }
     },
     plugins: [],
   }
